@@ -11,7 +11,7 @@ public class Sum6
 		 if(i % 3 == 0 || i % 5 == 0 )
 		  sum = sum + i;
 	 }
-	 
+	 System.out.println("hey");
 	 
 	return sum;
 	
